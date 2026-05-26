@@ -1,0 +1,15 @@
+../Core/Src/blood.c:57:6:blood_data_update	3
+../Core/Src/blood.c:93:6:blood_data_translate	4
+../Core/Src/blood.c:154:6:blood_wave_update	11
+../Core/Src/blood.c:223:6:tft_test_display	3
+../Core/Src/blood.c:251:6:tft_draw_frame	1
+../Core/Src/blood.c:260:6:tft_draw_State	3
+../Core/Src/blood.c:280:6:tft_draw_wave_line	2
+../Core/Src/blood.c:297:6:tft_draw_wave	2
+../Core/Src/blood.c:317:6:tft_draw_hrsp	2
+../Core/Src/blood.c:332:6:tft_draw_windows	1
+../Core/Src/blood.c:359:6:tft_display_update	3
+../Core/Src/blood.c:393:6:Led_beep_update	9
+../Core/Src/blood.c:464:6:blood_Setup	1
+../Core/Src/blood.c:478:6:blood_Loop	1
+../Core/Src/blood.c:491:6:blood_Interrupt	2

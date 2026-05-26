@@ -1,0 +1,4 @@
+../Core/Src/MAX30100.c:23:9:max30100_Bus_Write	16	static
+../Core/Src/MAX30100.c:67:9:max30100_Bus_Read	8	static
+../Core/Src/MAX30100.c:120:6:max30100_FIFO_Read	24	static
+../Core/Src/MAX30100.c:187:6:max30100_init	8	static

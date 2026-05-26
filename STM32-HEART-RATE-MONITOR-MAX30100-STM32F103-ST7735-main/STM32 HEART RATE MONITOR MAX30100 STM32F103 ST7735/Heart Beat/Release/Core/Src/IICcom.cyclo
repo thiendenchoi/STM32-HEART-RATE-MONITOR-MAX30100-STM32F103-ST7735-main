@@ -1,0 +1,12 @@
+../Core/Src/IICcom.c:25:6:I2C_GPIO_Config	1
+../Core/Src/IICcom.c:77:6:I2C_delay	1
+../Core/Src/IICcom.c:87:6:delay5ms	1
+../Core/Src/IICcom.c:103:9:I2C_Start	3
+../Core/Src/IICcom.c:123:6:I2C_Stop	1
+../Core/Src/IICcom.c:141:6:I2C_Ack	1
+../Core/Src/IICcom.c:159:6:I2C_NoAck	1
+../Core/Src/IICcom.c:177:9:I2C_WaitAck	1
+../Core/Src/IICcom.c:206:6:I2C_SendByte	3
+../Core/Src/IICcom.c:233:15:I2C_RadeByte	3
+../Core/Src/IICcom.c:257:9:Single_Write	3
+../Core/Src/IICcom.c:276:15:Single_Read	3

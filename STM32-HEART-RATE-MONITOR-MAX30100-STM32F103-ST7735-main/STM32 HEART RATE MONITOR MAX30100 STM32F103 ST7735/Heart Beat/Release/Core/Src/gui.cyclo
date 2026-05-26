@@ -1,0 +1,8 @@
+../Core/Src/gui.c:20:10:LCD_BGR2RGB	1
+../Core/Src/gui.c:31:6:Gui_Circle	4
+../Core/Src/gui.c:71:6:Gui_DrawLine	8
+../Core/Src/gui.c:167:6:gui_draw_Block	1
+../Core/Src/gui.c:179:6:gui_draw_square	1
+../Core/Src/gui.c:187:6:Gui_DrawFont_GBK16	9
+../Core/Src/gui.c:254:6:Gui_DrawFont_GBK24	8
+../Core/Src/gui.c:323:6:Gui_DrawFont_Num32	6
